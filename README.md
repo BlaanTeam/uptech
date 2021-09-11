@@ -20,6 +20,7 @@ UpTech is an open-source social media website, it's fast and easy to use.
 
 ## Technologies
 Project created with these open-source technologies
+
 Name | Description
 ---- | ----
 [Express](https://github.com/expressjs/express) | Express.js, or simply Express, is a back end web application framework for Node.js
