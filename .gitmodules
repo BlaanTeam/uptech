@@ -1,0 +1,3 @@
+[submodule "back-end"]
+	path = back-end
+	url = git@github.com:BlaanTeam/uptech-backend.git
