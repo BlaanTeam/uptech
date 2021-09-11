@@ -1,6 +1,8 @@
 [submodule "back-end"]
 	path = back-end
 	url = git@github.com:BlaanTeam/uptech-backend.git
+	branch = master
 [submodule "front-end"]
 	path = front-end
 	url = git@github.com:BlaanTeam/uptech-frontend.git
+	branch = master
